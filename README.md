@@ -77,5 +77,4 @@ Turkey | Ankara | 85000000 | 783562.0 | Asia
 ## 👤 Geliştirici
 
 **Berkan Kublay**  
-Öğrenci No: 2321032015  
 Süleyman Demirel Üniversitesi — Bilgisayar Mühendisliği
